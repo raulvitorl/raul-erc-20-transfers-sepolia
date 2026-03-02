@@ -9,7 +9,7 @@ import {
 import { Address } from "@graphprotocol/graph-ts"
 import { AdminChanged } from "../generated/schema"
 import { AdminChanged as AdminChangedEvent } from "../generated/FiatTokenProxy/FiatTokenProxy"
-import { handleAdminChanged } from "../src/fiat-token-proxy"
+import { handleAdminChanged } from "../src/mapping"
 import { createAdminChangedEvent } from "./fiat-token-proxy-utils"
 
 // Tests structure (matchstick-as >=0.5.0)
