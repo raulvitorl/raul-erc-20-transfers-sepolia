@@ -9,7 +9,7 @@ Subgraph que indexa eventos **Transfer** e **Approval** do contrato USDC na rede
 - Proxy handling (FiatTokenProxy + implementation)
 
 ## Query URL (Development - rate-limited)
-https://api.studio.thegraph.com/query/1743097/raul-erc20-transfers-sepolia/version/latest
+https://api.studio.thegraph.com/query/1743097/raul-erc-20-transfers-sepolia/version/latest
 
 ## Exemplos de Queries
 ```graphql
